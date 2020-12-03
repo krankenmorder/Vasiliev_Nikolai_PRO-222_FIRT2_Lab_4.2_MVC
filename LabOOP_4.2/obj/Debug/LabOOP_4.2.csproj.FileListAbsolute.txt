@@ -1,0 +1,10 @@
+E:\Labs\LabOOP_4.2\LabOOP_4.2\bin\Debug\LabOOP_4.2.exe.config
+E:\Labs\LabOOP_4.2\LabOOP_4.2\bin\Debug\LabOOP_4.2.exe
+E:\Labs\LabOOP_4.2\LabOOP_4.2\bin\Debug\LabOOP_4.2.pdb
+E:\Labs\LabOOP_4.2\LabOOP_4.2\obj\Debug\LabOOP_4.2.csprojAssemblyReference.cache
+E:\Labs\LabOOP_4.2\LabOOP_4.2\obj\Debug\LabOOP_4._2.Form1.resources
+E:\Labs\LabOOP_4.2\LabOOP_4.2\obj\Debug\LabOOP_4._2.Properties.Resources.resources
+E:\Labs\LabOOP_4.2\LabOOP_4.2\obj\Debug\LabOOP_4.2.csproj.GenerateResource.cache
+E:\Labs\LabOOP_4.2\LabOOP_4.2\obj\Debug\LabOOP_4.2.csproj.CoreCompileInputs.cache
+E:\Labs\LabOOP_4.2\LabOOP_4.2\obj\Debug\LabOOP_4.2.exe
+E:\Labs\LabOOP_4.2\LabOOP_4.2\obj\Debug\LabOOP_4.2.pdb
